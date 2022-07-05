@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-#### I'm Full-Stack Developer
+#### I'm Full-Stack Developer • 🐱 lover • ❤️ pvp games
 
-##### BIO
+##### ME
 
+- 🌙 I know, I should have started to develop my GitHub sooner;
 - 😫 Tired of working with WordPress;
 - 🚀 Improving my skills on `TypeScript`, `React.js`, `Next.js`, `Tailwind`, `GraphQL` and `Node.js`;
 - 🔍 Looking for a challenging and exciting remote job;
-- ⚡️ Fun fact: I'm a very competitive player
+- ⚡️ Fun fact: I really suck on shooting games
