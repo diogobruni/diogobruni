@@ -8,4 +8,4 @@
 - 😫 Tired of working with WordPress;
 - 🚀 Improving my skills on `TypeScript`, `React.js`, `Next.js`, `Tailwind`, `GraphQL` and `Node.js`;
 - 🔍 Looking for a challenging and exciting remote job;
-- ⚡️ Fun fact: I really suck on shooting games
+- ⚡️ Fun fact: I really suck on shooting games;
